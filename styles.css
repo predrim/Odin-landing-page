@@ -114,7 +114,7 @@ header {
     width: 200px;
 }
 
-.image {
+.image-container img {
     width: 150px;
     height: 150px;
     border: solid #3882F6;
