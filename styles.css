@@ -55,7 +55,7 @@ header {
     width: 500px;
     object-fit: contain;
     border: solid #F9FAF8;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 .main-1-text{
@@ -148,7 +148,7 @@ blockquote {
 /* part 4 styles */
 
 .part-4 {
-    padding: 5% 10%;
+    padding: 5% 15%;
 }
 
 .content-4{
